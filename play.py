@@ -36,4 +36,4 @@ def real_wordle() -> None:
         new_game.render_result()
 
 if __name__ == "__main__":
-    # real_wordle()
+

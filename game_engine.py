@@ -82,7 +82,7 @@ class Wordle:
 
         raise NotImplementedError("you need to implement this method")
 
-    def get_past_guesses(self) -> list[tuple(str)]
+    def get_past_guesses(self) -> list[tuple(str)]:
         """ method which returns past guesses"""
 
         raise NotImplementedError("you need to implement this method")
